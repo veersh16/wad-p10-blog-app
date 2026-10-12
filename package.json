@@ -1,0 +1,14 @@
+{
+  "name": "wad-p10-blog-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "WAD P10 blog system - Vercel monorepo (frontend + serverless api)",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.3"
+  }
+}
